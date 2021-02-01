@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlifAcademy6HW30.01", "AlifAcademy6HW30.01\AlifAcademy6HW30.01.csproj", "{220C1DB7-AEDB-42C4-96A5-F5E5918792DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{220C1DB7-AEDB-42C4-96A5-F5E5918792DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220C1DB7-AEDB-42C4-96A5-F5E5918792DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220C1DB7-AEDB-42C4-96A5-F5E5918792DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220C1DB7-AEDB-42C4-96A5-F5E5918792DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {657F0C88-5BD5-46D9-9DB7-A00295B0BD5C}
+	EndGlobalSection
+EndGlobal
